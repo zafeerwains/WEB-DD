@@ -1,0 +1,1 @@
+## Write HTML and JavaScript code that can create a dropdown menu with three options and display an alert with the selected option.
