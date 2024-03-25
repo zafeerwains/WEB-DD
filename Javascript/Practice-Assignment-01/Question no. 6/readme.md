@@ -1,0 +1,1 @@
+##  Write HTML and JavaScript code that can toggle the visibility of an image when a button is clicked.
