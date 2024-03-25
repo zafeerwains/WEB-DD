@@ -1,0 +1,1 @@
+const colorChange = () => document.body.style.backgroundColor = `#${Math.round(Math.random() * 1000000)}`
