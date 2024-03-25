@@ -1,0 +1,1 @@
+##  Write HTML and JavaScript code that can change the text color of a heading every 2 seconds.
