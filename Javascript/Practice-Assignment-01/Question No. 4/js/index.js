@@ -1,0 +1,1 @@
+const alertBox = () => alert("A custom message")
