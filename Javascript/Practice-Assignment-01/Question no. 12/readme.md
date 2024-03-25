@@ -1,0 +1,1 @@
+##  Write HTML and JavaScript code that can animate an image to move across the screen when a button is clicked.
