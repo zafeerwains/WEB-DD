@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="js/index.js" defer></script>
+    <title>Question no. 5</title>
+</head>
+
+<body>
+    <form onsubmit="handleSubmit()" method="post">
+        <label for="name">Name :</label>
+        <input id="name" required type="text" placeholder="Enter Your Name"><br />
+        <label for="klass">Class :</label>
+        <input id="klass" required type="text" placeholder="Enter Your Class"><br />
+        <label for="age">Age :</label>
+        <input id="age" required type="number" placeholder="Enter Your Age"><br />
+        <button type="submit" onsubmit="handleSubmit()">Submit the form</button>
+    </form>
+    <div>
+        <p id="Name"></p>
+        <p id="Klass"></p>
+        <p id="Age"></p>
+    </div>
+</body>
+
+</html>
