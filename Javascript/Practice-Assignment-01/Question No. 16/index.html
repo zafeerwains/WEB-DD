@@ -9,7 +9,44 @@
 </head>
 
 <body>
-
+    <center>
+        <h1>Quiz App</h1>
+        <div>
+            <h2>Q1 : Number of Months In a Year</h2>
+            <input id="correctOption1" type="radio" name="q1" value="12" />
+            <label for="correctOption1">12 months</label><br>
+            <input id="option2" type="radio" name="q1" value="6" />
+            <label for="option2">6 months</label><br>
+            <input id="option3" type="radio" name="q1" value="9" />
+            <label for="option3">9 months</label><br>
+            <input id="option4" type="radio" name="q1" value="8" />
+            <label for="option4">8 months</label><br>
+        </div>
+        <div>
+            <h2>Q2 : Number of Days In a Week</h2>
+            <input id="correctOption2" type="radio" name="q2" value="7" />
+            <label for="correctOption2">7 days</label><br>
+            <input id="option6" type="radio" name="q2" value="5" />
+            <label for="option6">5 days</label><br>
+            <input id="option7" type="radio" name="q2" value="6" />
+            <label for="option7">6 days</label><br>
+            <input id="option8" type="radio" name="q2" value="8" />
+            <label for="option8">8 days</label><br>
+        </div>
+        <div>
+            <h2>Q3 : Number of Days In February</h2>
+            <input id="correctOption3" type="radio" name="q3" value="28" />
+            <label for="correctOption3">28 days</label><br>
+            <input id="option9" type="radio" name="q3" value="29" />
+            <label for="option9">29 days</label><br>
+            <input id="option10" type="radio" name="q3" value="30" />
+            <label for="option10">30 days</label><br>
+            <input id="option11" type="radio" name="q3" value="31" />
+            <label for="option11">31 days</label><br>
+        </div>
+        <button onclick="submitQuiz()">Submit Quiz</button>
+        <h1 id="resultHeading" style="display:none;">You got <span id="result">0</span> out of 3</h1>
+    </center>
 
 </body>
 
