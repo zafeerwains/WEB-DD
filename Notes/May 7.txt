@@ -1,0 +1,30 @@
+RAD
+-->PHP RAD
+--> Oracle Developer
+-->ASP.net(,net framework)
+
+
+ACCESS Control
+
+Stateless machine 
+		Cookies and sessions are used to remember a user 
+		
+Filter 
+	Filter that  which person use the what and what belongs to user 
+Validation 
+	Check the availbility 
+	-> Server Side validation
+	-> Client Side validation 
+CRUD 
+	1-Create 
+	2-Read 
+	3-Update 
+	4-Delete
+(JSON) API 
+	Serves the data to multiple plateforms 
+MVC (Model View Control)
+	View Folder TO change the View of web page(Look and Fell)
+	Model Folder has the databases Operations 
+	Controller Folder has all the logics 
+
+
